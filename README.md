@@ -6,7 +6,7 @@ A responsive React-based booking system that allows users to select available ti
 ---
 
 ## 🚀 Live Demo
-https://your-vercel-link.vercel.app
+https://booking-slots-phi.vercel.app/
 
 ---
 
