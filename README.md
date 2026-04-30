@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📅 Booking Slot Selector App
 
 A responsive React-based booking system that allows users to select available time slots for a chosen date. It includes validation rules, slot limits, and a live summary panel with persistent storage.
@@ -48,7 +49,7 @@ src/
 ## ⚙️ Installation
 
 ### Clone repo
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/shahroz-tech/booking_slots.git
 
 ### Install dependencies
 npm install
@@ -91,3 +92,21 @@ Muhammad Shahroz
 ## 📄 License
 
 This project is open source and free to use.
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+>>>>>>> ac1a060 (Ready for deployment)
